@@ -1,0 +1,12 @@
+{
+  "name": "blog-github-actions-aws-lambda-python",
+  "description": "",
+  "version": "0.1.0",
+  "scripts": {
+    "deploy": "serverless deploy"
+  },
+  "devDependencies": {
+    "serverless": "^3.1.1",
+    "serverless-python-requirements": "^5.3.1"
+  }
+}
